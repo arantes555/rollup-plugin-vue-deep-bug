@@ -1,0 +1,27 @@
+{
+  "name": "rollup-plugin-vue-deep-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arantes555/rollup-plugin-vue-deep-bug.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arantes555/rollup-plugin-vue-deep-bug/issues"
+  },
+  "homepage": "https://github.com/arantes555/rollup-plugin-vue-deep-bug#readme",
+  "devDependencies": {
+    "node-sass": "^4.12.0",
+    "rollup": "^1.11.3",
+    "rollup-plugin-commonjs": "^9.3.4",
+    "rollup-plugin-node-resolve": "^4.2.4",
+    "rollup-plugin-vue": "^5.0.0",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
